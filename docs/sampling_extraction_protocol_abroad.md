@@ -35,7 +35,7 @@ Field ID codes are used to associate field notes with samples and with the data 
 
 Here we fix a project ID code ("TAE") to easily recognise this project as different from others. Next we choose a geographical abbreviation to differentiate samples by region, in this case Morogoro region ("MG"). If only one region is being sampled, choose district or town instead. Next is the location ID code; there may be six locations sampled in Morogoro, so they would be "01" to "06". Location would be, for example, an individual farm or dam. The final element is each sampling site ID (i.e. the exact place the triplicate samples were taken). For a farm with three ponds the site ID codes would be A, B, C. For a dam, a site would be each access point where the water samples were taken.
 
-After sampling fill out the data spreadsheet. A template is provided at [events-master-template.csv](https://raw.githubusercontent.com/boopsboops/seadna-protocols/master/docs/events-master-template.csv), with a key to fields at [events-master-fields.md](events-master-fields.md) Format should remain as plain text .csv format. Avoid .xls or .xlsx formats, and avoid formulas.
+After sampling fill out the data spreadsheet. A template is provided at [events-master-template.csv](https://raw.githubusercontent.com/boopsboops/seadna-protocols/master/docs/events-master-template.csv), with a key to fields at [events-master-fields.md](events-master-fields.md). Format should remain as plain text .csv format; avoid .xls or .xlsx formats and avoid formulas.
 
 
 ##### Kit list:
