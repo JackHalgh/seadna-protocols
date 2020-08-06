@@ -133,6 +133,7 @@ Field sampling equipment required (manufacturers and part numbers are presented 
 Kit required (manufacturers and part numbers are presented in Table 1 at the bottom): 
 
 * DNeasy Blood & Tissue Kit
+* RNase A
 * 50 mL centrifuge tubes
 * 1.5 mL microcentrifuge tubes
 * 1.5 mL microcentrifuge tubes (LoBind)
@@ -169,7 +170,7 @@ Things to do before you start (usually the night before):
 
 <img src="label.jpg" width="300">
 
-3. Open the Sterivex, add 20 &micro;L of proteinase K. Close with the same combistopper and shake to mix.
+3. Open the Sterivex, add 20 &micro;L of proteinase K and 2 &micro;L of RNase A. Close with the same combistopper and shake to mix.
 4. Put in the oven shaker to incubate for 2 h. Return after 1 h to rearrange and check; this makes sure some samples don't get stuck and stop moving.
 5. Remove combistopper and place an inverted 1.5 mL microcentrifuge tube over the Sterivex inlet. Place an inverted 50 mL centrifuge tube over the top of both. Quickly flip so tubes are back the right way up and the Sterivex contents can drain into the microcentrifuge tube. See:
 
@@ -216,6 +217,7 @@ Whirl-Pak sample bag (75 x 125 mm) | consumable | 500 | £50.19 | SLS| BAG2504
 50 mL luer-lock syringe | consumable | 25 | £16.90 | SLS | BS-50L
 1 mL luer-slip syringe | consumable | 100 | £6.20  | Appleton Woods | BD572
 DNeasy Blood & Tissue kit | consumable | 250 | £489.77 | Qiagen | 69506
+RNase A | consumable | 2 x 0.5 mL | £47.60 | New England Biolabs | T3018L
 Buffer ATL | consumable | 4 x 50 mL | £55.40 | Qiagen | 939016
 Combistopper | consumable | 100 | £11.67 | B Braun | 4495152
 50 mL Centrifuge Tube | consumable | 500 | £48.48 | Starlab UK | E1450-0200
