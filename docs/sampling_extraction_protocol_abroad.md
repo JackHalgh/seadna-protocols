@@ -68,8 +68,8 @@ Field sampling equipment required (manufacturers and part numbers are presented 
 ##### Preparation in the lab:
 
 1. Clean working surfaces, boxes, and field sampling equipment with 10% bleach solution. 
-1. Count and pack consumables into boxes, adding extra to account for breakages, contamination, or unexpected sampling opportunities.
-1. One sampling event at one location will require the following consumables:
+2. Count and pack consumables into boxes, adding extra to account for breakages, contamination, or unexpected sampling opportunities.
+3. One sampling event at one location will require the following consumables:
     * x4 Sterivex (3 for samples, 1 for control)
     * x2 50 mL syringe (1 samples, 1 for control)
     * x2 1 mL syringe (1 samples, 1 for control)
@@ -77,55 +77,55 @@ Field sampling equipment required (manufacturers and part numbers are presented 
     * x2 Whirl-pak sample bags (1 samples, 1 for control) OR x4 individual sample tubes with label
     * x4 combi-stoppers (3 for samples, 1 for control)
     * x1 zip-lock bag
-1. Sealant gun pump and water sample bottles should be transported in clean plastic bags to reduce contamination in transit. Use these plastic bags to secure waste.
-1.  Sensitive consumables such as Sterivex and ATL buffer should be in a secondary box. It's a good idea to aliquot the ATL buffer stock to minimise contamination.
-1. For the water collecting container, bottles of drinking water between 500 mL and 2 L can be purchased locally, and can serve as disposible sampling bottles. Size of bottle can be determined based on amount of water that is likely to pass through one Sterivex.
-1. The drinking water will also serve as the negative field control.
-1. Retrieve cool packs from freezer and place in cool bag.
+4. Sealant gun pump and water sample bottles should be transported in clean plastic bags to reduce contamination in transit. Use these plastic bags to secure waste.
+5.  Sensitive consumables such as Sterivex and ATL buffer should be in a secondary box. It's a good idea to aliquot the ATL buffer stock to minimise contamination.
+6. For the water collecting container, bottles of drinking water between 500 mL and 2 L can be purchased locally, and can serve as disposible sampling bottles. Size of bottle can be determined based on amount of water that is likely to pass through one Sterivex.
+7. The drinking water will also serve as the negative field control.
+8. Retrieve cool packs from freezer and place in cool bag.
 
 
 ##### Steps in the field:
 
 1. Take field notes as described above.
-1. Wearing disposible gloves, empty the collecting bottle and rinse in sample water. Collect sample avoiding surface debris, plants, and sediment. Allow to settle for 15 min in the shade. Consider a prefilter if sediment/algal load is high.
-1. Change gloves.
-1. Prepare a working area using the lid from the storage box, and lay out all consumables needed.
-1. Attached the adapter ring to the sealant gun with wire to form a holder to secure the syringe.
+2. Wearing disposible gloves, empty the collecting bottle and rinse in sample water. Collect sample avoiding surface debris, plants, and sediment. Allow to settle for 15 min in the shade. Consider a prefilter if sediment/algal load is high.
+3. Change gloves.
+4. Prepare a working area using the lid from the storage box, and lay out all consumables needed.
+5. Attached the adapter ring to the sealant gun with wire to form a holder to secure the syringe.
 
 <img src="glue-gun.png" width="500">
 <img src="rings.png" width="200">
 
-1. Open a 50 mL syringe and a Sterivex filter. Twist the Sterivex luer connection inlet (wider end) into the syringe.
-1. Remove syringe plunger, fill with sample water up to 60 mL and re-insert the plunger. 
-1. If possible push the first fill through by hand to save time. 
-1. To refill, detach the Sterivex to allow air in, remove the plunger, reattach the Sterivex, and refill with sample water.
-1. To assist pumping, use the sealant gun by putting the Sterivex through the adapter ring. Align the syringe and gun, and squeeze the trigger firmly but GENTLY to push water through. Apply a slow, steady, gentle pressure; squeezing too hard/fast can easily burst the Sterivex!
+6. Open a 50 mL syringe and a Sterivex filter. Twist the Sterivex luer connection inlet (wider end) into the syringe.
+7. Remove syringe plunger, fill with sample water up to 60 mL and re-insert the plunger. 
+8. If possible push the first fill through by hand to save time. 
+9. To refill, detach the Sterivex to allow air in, remove the plunger, reattach the Sterivex, and refill with sample water.
+10. To assist pumping, use the sealant gun by putting the Sterivex through the adapter ring. Align the syringe and gun, and squeeze the trigger firmly but GENTLY to push water through. Apply a slow, steady, gentle pressure; squeezing too hard/fast can easily burst the Sterivex!
 
 <img src="action.jpg" width="500">
 
-1. Repeat filling and filtering until water is only dripping through very slowly and it is too difficult to pump.
-1. Some water will remain the Sterivex, which needs to be removed. Fill the syringe with air and force remaining water out of the Sterivex (by hand or with gun). Repeat until as much water as possible has been eliminated. Water will dilute the preservative buffer. 
-1.  Using the cigarette lighter, heat the outlet (narrow end) of the Sterivex just until it melts. Gently press and twist against a hard metal surface (e.g. the sealant gun) to permanently seal the end of the Sterivex. See:
+11. Repeat filling and filtering until water is only dripping through very slowly and it is too difficult to pump.
+12. Some water will remain the Sterivex, which needs to be removed. Fill the syringe with air and force remaining water out of the Sterivex (by hand or with gun). Repeat until as much water as possible has been eliminated. Water will dilute the preservative buffer. 
+13.  Using the cigarette lighter, heat the outlet (narrow end) of the Sterivex just until it melts. Gently press and twist against a hard metal surface (e.g. the sealant gun) to permanently seal the end of the Sterivex. See:
 
 <img src="sterivex.jpg" width="300">
 
-1. Place Sterivex sample in Whirl-pak sample bag or sample tube.
-1. Change gloves and prepare sample labels. Record the following on each label using gel pen or pencil (never ballpoint pen or "permanent" marker): 
+14. Place Sterivex sample in Whirl-pak sample bag or sample tube.
+15. Change gloves and prepare sample labels. Record the following on each label using gel pen or pencil (never ballpoint pen or "permanent" marker): 
     * field ID code
     * date
     * total number of event samples
     * syringe volume and number of syringes filled (= total mL filtered)
     * number of negative field control samples
-1. Change gloves and repeat above steps for all three event samples. 
-1. Change gloves and add preservative buffer to all samples at once. Fill new 1 mL syringe with ATL buffer (from aliquoted stock), going as far as possible to take in 1.1 mL.
-1.  Insert the syringe into the Sterivex luer inlet (wide end) and slowly inject one-third of the contents of the syringe (367 &micro;L = 0.37 mL). Before removing the syringe, tap the Sterivex to ensure the buffer drains from the neck of the Sterivex. Because of the pressure, sometimes the buffer comes straight back out, so be careful of that.
-1.  One syringe of ATL buffer will do all three Sterivex. NEVER put the syringe back into the ATL buffer. Only take buffer once. Use a new syringe for further samples, and for the negative field control.
-1.  Use a combistopper to seal the luer inlet (wide end) of the Sterivex. Shake to mix the ATL buffer over the filter.
-1.  Using clean equipment and fresh consumables repeat above for the negative control sample.
-1.  Place the bagged Sterivex and the negative control in a zip lock bag, and write the field ID code on the outside in permanent marker.
-1.  Place the samples in the cool bag with the pre-frozen cool packs.
-1.  For storage, keep the filters as cool and dark as possible. Freeze as soon as possible for long term storage. Avoid freezing for short periods. Refrigeration is good if available. Samples will be okay for up to a couple of weeks below 20&#176;C if they are being transported internationally. 
-18. Clean equipment with 10% bleach solution.
+16. Change gloves and repeat above steps for all three event samples. 
+17. Change gloves and add preservative buffer to all samples at once. Fill new 1 mL syringe with ATL buffer (from aliquoted stock), going as far as possible to take in 1.1 mL.
+18.  Insert the syringe into the Sterivex luer inlet (wide end) and slowly inject one-third of the contents of the syringe (367 &micro;L = 0.37 mL). Before removing the syringe, tap the Sterivex to ensure the buffer drains from the neck of the Sterivex. Because of the pressure, sometimes the buffer comes straight back out, so be careful of that.
+19. One syringe of ATL buffer will do all three Sterivex. NEVER put the syringe back into the ATL buffer. Only take buffer once. Use a new syringe for further samples, and for the negative field control.
+20. Use a combistopper to seal the luer inlet (wide end) of the Sterivex. Shake to mix the ATL buffer over the filter.
+21. Using clean equipment and fresh consumables repeat above for the negative control sample.
+22. Place the bagged Sterivex and the negative control in a zip lock bag, and write the field ID code on the outside in permanent marker.
+23. Place the samples in the cool bag with the pre-frozen cool packs.
+24. For storage, keep the filters as cool and dark as possible. Freeze as soon as possible for long term storage. Avoid freezing for short periods. Refrigeration is good if available. Samples will be okay for up to a couple of weeks below 20&#176;C if they are being transported internationally. 
+25. Clean equipment with 10% bleach solution.
 
 
 ### DNA extraction procedure back in the lab
