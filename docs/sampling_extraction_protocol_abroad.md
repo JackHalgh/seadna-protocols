@@ -75,7 +75,7 @@ Field sampling equipment required (manufacturers and part numbers are presented 
     * x2 1 mL syringe (1 samples, 1 for control)
     * ~1.5 mL ATL buffer
     * x2 Whirl-pak sample bags (1 samples, 1 for control) OR x4 individual sample tubes with label
-    * x4 combi-stoppers (3 for samples, 1 for control)
+    * x4 combistoppers (3 for samples, 1 for control)
     * x1 zip-lock bag
 4. Sealant gun pump and water sample bottles should be transported in clean plastic bags to reduce contamination in transit. Use these plastic bags to secure waste.
 5.  Sensitive consumables such as Sterivex and ATL buffer should be in a secondary box. It's a good idea to aliquot the ATL buffer stock to minimise contamination.
