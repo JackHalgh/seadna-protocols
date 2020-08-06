@@ -1,57 +1,132 @@
 # Protocols for eDNA sampling abroad
-### Rupert A. Collins :: August 2019
+### Rupert A. Collins :: August 2020
 
-Sampling trips involving air travel and lengthy fieldwork create problems for eDNA sample storage. Here is a simple procedure for eDNA capture, storage, and extraction.
+Sampling trips involving air travel and lengthy fieldwork can create problems for eDNA sampling and storage. Here is a simple procedure for eDNA capture and storage in the field, and subsequent extraction in the lab. A tutorial video accompanying the field sampling protocol can be found at [https://youtu.be/dQw4w9WgXcQ](https://youtu.be/dQw4w9WgXcQ).
 
-### Sampling procedure in the field
+### Field sampling
 
-Kit required (manufacturers and part numbers are presented in Table 1 at the bottom): 
+##### Sampling overview and recorded data
+
+Each sampling event should comprise three sample replicates (i.e. triplicate Sterivex filters). To minimise contamination each replicate should be collected independently from the same place in different sterile collecting containers. However, samples from the same event (except negative control) can be pumped using the same 50 mL syringe (it's theoretically safer to use a new syringe for each sample, but syringes are bulky and take up a lot of space, so it's easier to quickly re-rinse in sample water before pumping).
+
+At each new location a negative field control needs to be taken. This will comprise 100 mL of shop bought drinking water. Negative field controls must be processed and stored using completely clean consumables (e.g. Sterivex, syringes, sample bags/tubes). 
+
+The total number of sampling events and number of locations/sites will depend on the scientific question, experimental design and budget available. For a small and densly stocked water body such as a tilapia aquaculture pond, one event with three replicates will be sufficient. With the example of the tilapia aquaculture pond sampling, the following information should be recorded in a field note book:
+
+* field ID code, e.g. "TAE-MG01-A"
+* site name and locality (region, district, town etc)
+* date
+* time
+* GPS coords in decimal degrees
+* pond owner (and contact details)
+* species, stocking density, stocking history
+* site photos taken
+* pond dimensions
+* pond turbidity
+* negative field controls taken
+
+It is useful to write the field notes and then photograph the notebook page immediately before photographing the site. This way it is possible to quickly determine which photos correspond to which site.
+
+Field ID codes are used to associate field notes with samples and with the data spreadsheet. A simple example here is a hierachical format (e.g. "TAE-MG01-A") as follows:
+
+* TAE = project ID code
+* MG01 = locality ID code
+* A = site ID code
+
+Here we fix a project ID code ("TAE") to easily recognise this project as different from others. Next we choose a geographical abbreviation to differentiate samples by region, in this case Morogoro region ("MG"). If only one region is being sampled, choose district or town instead. Next is the location ID code; there may be six locations sampled in Morogoro, so they would be "01" to "06". Location would be, for example, an individual farm or dam. The final element is each sampling site ID (i.e. the exact place the triplicate samples were taken). For a farm with three ponds the site ID codes would be A, B, C. For a dam, a site would be each access point where the water samples were taken.
+
+After sampling fill out the data spreadsheet. A template is provided at [events-master-template.csv](events-master-template.csv), with a key to fields at [events-master-fields.md](events-master-fields.md) Format should remain as plain text .csv format. Avoid .xls or .xlsx formats, and avoid formulas.
+
+
+##### Kit list:
+
+Consumables required (manufacturers and part numbers are presented in Table 1 at the bottom): 
 
  * Sterivex filters
  * ATL buffer
- * Whirl-Pak bags
- * Sealant gun and securing rings (plus a spare)
+ * Whirl-Pak bags (or sample tubes)
+ * Disposible gloves
  * 50 mL syringes
  * 1 mL syringes
  * Combistoppers
- * Zip-lock bags 
+ * Zip-lock bags
  * Label paper (120 gsm archival-grade acid-free)
+
+Field sampling equipment required (manufacturers and part numbers are presented in Table 1 at the bottom): 
+
+ * Sealant gun (hand pump) and adapter rings (plus spares)
  * Scissors
- * Disposible gloves
  * Gel pens
  * Marker pens
  * Cable ties or wire
  * Cigarette lighter
- * Storage/working box
+ * Storage/working boxes
+ * Cool bags and cool packs
+ * Wash bottle (with 10% bleach solution)
 
-##### Steps:
 
-1. For a collecting container, 1-2 L bottles of drinking water can be purchased locally, and can serve as disposible sampling bottles. Wearing disposible gloves, empty the bottle and rinse it in your sample water. Fill up the bottle under the surface. If debris or sediment are present, allow to settle for 15 min in the shade. Consider a prefilter if sediment/algal load is high.
-2. Cable tie or wire the rail socket rings to the sealant gun to form a holder to secure the syringe.
+##### Preparation in the lab:
+
+1. Clean working surfaces, boxes, and field sampling equipment with 10% bleach solution. 
+1. Count and pack consumables into boxes, adding extra to account for breakages, contamination, or unexpected sampling opportunities.
+1. One sampling event at one location will require the following consumables:
+    * x4 Sterivex (3 for samples, 1 for control)
+    * x2 50 mL syringe (1 samples, 1 for control)
+    * x2 1 mL syringe (1 samples, 1 for control)
+    * ~1.5 mL ATL buffer
+    * x2 Whirl-pak sample bags (1 samples, 1 for control) OR x4 individual sample tubes with label
+    * x4 combi-stoppers (3 for samples, 1 for control)
+    * x1 zip-lock bag
+1. Sealant gun pump and water sample bottles should be transported in clean plastic bags to reduce contamination in transit. Use these plastic bags to secure waste.
+1.  Sensitive consumables such as Sterivex and ATL buffer should be in a secondary box. It's a good idea to aliquot the ATL buffer stock to minimise contamination.
+1. For the water collecting container, bottles of drinking water between 500 mL and 2 L can be purchased locally, and can serve as disposible sampling bottles. Size of bottle can be determined based on amount of water that is likely to pass through one Sterivex.
+1. The drinking water will also serve as the negative field control.
+1. Retrieve cool packs from freezer and place in cool bag.
+
+
+##### Steps in the field:
+
+1. Take field notes as described above.
+1. Wearing disposible gloves, empty the collecting bottle and rinse in sample water. Collect sample avoiding surface debris, plants, and sediment. Allow to settle for 15 min in the shade. Consider a prefilter if sediment/algal load is high.
+1. Change gloves.
+1. Prepare a working area using the lid from the storage box, and lay out all consumables needed.
+1. Attached the adapter ring to the sealant gun with wire to form a holder to secure the syringe.
 
 <img src="glue-gun.png" width="500">
 <img src="rings.png" width="200">
 
-3. Open a 50 mL syringe and a Sterivex filter. Twist the syringe into the Sterivex luer connection inlet.
-4. Remove syringe plunger, fill with sample water and re-insert the plunger. Place in the sealant gun by putting the Sterivex through the hole in the ring.
-5. Align the syringe and gun, and squeeze the trigger GENTLY to push water through. It's better to apply a slow, steady, gentle pressure; squeezing too hard can easily burst the Sterivex!
+1. Open a 50 mL syringe and a Sterivex filter. Twist the Sterivex luer connection inlet (wider end) into the syringe.
+1. Remove syringe plunger, fill with sample water up to 60 mL and re-insert the plunger. 
+1. If possible push the first fill through by hand to save time. 
+1. To refill, detach the Sterivex to allow air in, remove the plunger, reattach the Sterivex, and refill with sample water.
+1. To assist pumping, use the sealant gun by putting the Sterivex through the adapter ring. Align the syringe and gun, and squeeze the trigger firmly but GENTLY to push water through. Apply a slow, steady, gentle pressure; squeezing too hard/fast can easily burst the Sterivex!
 
 <img src="action.jpg" width="500">
 
-6. Repeat until water is only dripping through very slowly.
-7. Record the number of syringes filled (= total mL filtered) on the label along with site code and date etc. Use gel pen or pencil for this, never biro or "permanent" marker.
-8.  Fill the syringe with air and force remaining water out of the Sterivex. Repeat until all water has been removed. Water will dilute the preservative buffer.
-9.  Using the cigarette lighter, heat the outlet of the Sterivex until it melts. Gently press and twist against a hard metal surface (e.g. the sealant gun) to permanently seal the end of the Sterivex. See:
+1. Repeat filling and filtering until water is only dripping through very slowly and it is too difficult to pump.
+1. Some water will remain the Sterivex, which needs to be removed. Fill the syringe with air and force remaining water out of the Sterivex (by hand or with gun). Repeat until as much water as possible has been eliminated. Water will dilute the preservative buffer. 
+1.  Using the cigarette lighter, heat the outlet (narrow end) of the Sterivex just until it melts. Gently press and twist against a hard metal surface (e.g. the sealant gun) to permanently seal the end of the Sterivex. See:
 
 <img src="sterivex.jpg" width="300">
 
-10.  Change gloves.
-11.  Fill a sterile 1 mL syringe with ATL buffer (from aliquoted stock), going as far as possible to take in 1.1 mL.
-12.  Insert the syringe into the Sterivex inlet and slowly inject one-third of the contents of the syringe (367 &micro;L). Before removing the syringe, tap the Sterivex to ensure the buffer drains from the neck of the Sterivex. Because of the pressure, sometimes the buffer comes straight back out, so be careful of that.
-13.  One syringe of ATL buffer will do three Sterivex. NEVER put the syringe back into the ATL buffer once it has been inserted in a Sterivex. Use a new syringe for further samples.
-14.  Use a combistopper to seal the luer end of the Sterivex. Shake to mix the ATL buffer over the filter.
-15.  Place 3x Sterivex in Whirl-Pak bag with accompanying label, and place this bag in a zip lock bag.
-16.  For storage, keep the filters as cool and dark as possible. Avoid freezing for short periods. Refrigeration is good if available. Samples will be okay for several weeks, and to bring back in hold luggage. 
+1. Place Sterivex sample in Whirl-pak sample bag or sample tube.
+1. Change gloves and prepare sample labels. Record the following on each label using gel pen or pencil (never ballpoint pen or "permanent" marker): 
+    * field ID code
+    * date
+    * total number of event samples
+    * syringe volume and number of syringes filled (= total mL filtered)
+    * number of negative field control samples
+1. Change gloves and repeat above steps for all three event samples. 
+1. Change gloves and add preservative buffer to all samples at once. Fill new 1 mL syringe with ATL buffer (from aliquoted stock), going as far as possible to take in 1.1 mL.
+1.  Insert the syringe into the Sterivex luer inlet (wide end) and slowly inject one-third of the contents of the syringe (367 &micro;L = 0.37 mL). Before removing the syringe, tap the Sterivex to ensure the buffer drains from the neck of the Sterivex. Because of the pressure, sometimes the buffer comes straight back out, so be careful of that.
+1.  One syringe of ATL buffer will do all three Sterivex. NEVER put the syringe back into the ATL buffer. Only take buffer once. Use a new syringe for further samples, and for the negative field control.
+1.  Use a combistopper to seal the luer inlet (wide end) of the Sterivex. Shake to mix the ATL buffer over the filter.
+1.  Using clean equipment and fresh consumables repeat above for the negative control sample.
+1.  Place the bagged Sterivex and the negative control in a zip lock bag, and write the field ID code on the outside in permanent marker.
+1.  Place the samples in the cool bag with the pre-frozen cool packs.
+1.  For storage, keep the filters as cool and dark as possible. Freeze as soon as possible for long term storage. Avoid freezing for short periods. Refrigeration is good if available. Samples will be okay for up to a couple of weeks below 20&#176;C if they are being transported internationally. 
+18. Clean equipment with 10% bleach solution.
+
 
 ### DNA extraction procedure back in the lab
 
@@ -75,7 +150,7 @@ Things to do before you start (usually the night before):
 * Run the UV lamp for at least 2 h. 
 * Ensure you have sufficient gloves, towels, tips, sweetie jars, tubes etc.
 
-##### Important notes:
+##### Important notes on DNA extraction:
 
 * It is important to do the ethanol-bleach-ethanol because several of the extraction buffers contain chaotropic salts that react with bleach to form highly toxic compounds (basically mustard gas!). If formed this compound will appear yellow on the paper towels and may smell pleasant and garlicky.
 * ALWAYS use filter tips.
@@ -87,7 +162,7 @@ Things to do before you start (usually the night before):
 * Photograph your lab book at the end of every day as a backup.
 
 
-##### Steps:
+##### Extraction steps:
 
 1. Turn on the oven and preheat the AL and AE buffers at 56&#176;C.
 2. Label the Sterivex by putting on masking tape, writing on the number, then another layer of tape. This means that the labels will not be lost should one of the Sterivex leak in the shaker. See:
@@ -132,17 +207,17 @@ Things to do before you start (usually the night before):
 
 
 ### Table 1. Parts and prices
-Item | Quantity | Cost (excl. VAT)| Company | Part no.
---- | --- | --- |--- |---
-Sterivex filter 0.22 &micro;m | 50 | £245 | Millipore | SVGP01050
-Whirl-Pak sample bag (75 x 125 mm) | 500 | £50.19 | SLS| BAG2504
-50 mL luer-lock syringe | 25 | £16.90 | SLS | BS-50L
-1 mL luer-slip syringe | 100 | £6.20  | Appleton Woods | BD572
-DNeasy Blood & Tissue kit | 250 | £489.77 | Qiagen | 69506
-Buffer ATL | 4 x 50 mL | £55.40 | Qiagen | 939016
-Combistopper | 100 | £11.67 | B Braun | 4495152
-Heavy duty sealant gun | 1 | £6.00 | Wilko | 0427805
-19mm rail socket | 2 | £3.00 | Wilko | 4382054
-50 mL Centrifuge Tube | 500 | £48.48 | Starlab UK | E1450-0200
-1.5 mL microcentrifuge tube | 500 | £14.28 | Starlab UK | S1615-5510
-1.5 mL microcentrifuge tube (LoBind) | 250 | £6.14 | Starlab UK| E1415-2600
+Item | Type | Quantity | Cost (excl. VAT)| Company | Part no.
+--- | --- | --- |--- |--- |---
+Heavy duty sealant gun | equipment | 1 | £6.00 | Wilko | 0427805
+19 mm rail socket | equipment | 2 | £3.00 | Wilko | 4382054
+Sterivex filter 0.22 &micro;m | consumable | 50 | £245 | Millipore | SVGP01050
+Whirl-Pak sample bag (75 x 125 mm) | consumable | 500 | £50.19 | SLS| BAG2504
+50 mL luer-lock syringe | consumable | 25 | £16.90 | SLS | BS-50L
+1 mL luer-slip syringe | consumable | 100 | £6.20  | Appleton Woods | BD572
+DNeasy Blood & Tissue kit | consumable | 250 | £489.77 | Qiagen | 69506
+Buffer ATL | consumable | 4 x 50 mL | £55.40 | Qiagen | 939016
+Combistopper | consumable | 100 | £11.67 | B Braun | 4495152
+50 mL Centrifuge Tube | consumable | 500 | £48.48 | Starlab UK | E1450-0200
+1.5 mL microcentrifuge tube | consumable | 500 | £14.28 | Starlab UK | S1615-5510
+1.5 mL microcentrifuge tube (LoBind) | consumable | 250 | £6.14 | Starlab UK| E1415-2600
