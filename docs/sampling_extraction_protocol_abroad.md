@@ -1,7 +1,7 @@
 # Protocols for eDNA sampling abroad
 ### Rupert A. Collins :: August 2020
 
-Sampling trips involving air travel and lengthy fieldwork can create problems for eDNA sampling and storage. Here is a simple procedure for eDNA capture and storage in the field, and subsequent extraction in the lab. A tutorial video accompanying the field sampling protocol can be found at [https://youtu.be/dQw4w9WgXcQ](https://youtu.be/dQw4w9WgXcQ).
+Sampling trips involving air travel and lengthy fieldwork can create problems for eDNA sampling and storage. Here is a simple procedure for eDNA capture and storage in the field, and subsequent extraction in the lab. A tutorial video accompanying the field sampling protocol can be found at [https://youtu.be/t63fmKdkkUk](https://youtu.be/t63fmKdkkUk).
 
 ### Field sampling
 
